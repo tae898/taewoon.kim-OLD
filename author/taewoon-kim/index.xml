@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts | Taewoon Kim</title>
-    <link>/post/</link>
-      <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
-    <description>Posts</description>
+    <title>Taewoon Kim</title>
+    <link>/author/taewoon-kim/</link>
+      <atom:link href="/author/taewoon-kim/index.xml" rel="self" type="application/rss+xml" />
+    <description>Taewoon Kim</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
     <image>
       <url>/images/icon_hu3fe8004869202247175e7257b80d7a5b_247389_512x512_fill_lanczos_center_2.png</url>
-      <title>Posts</title>
-      <link>/post/</link>
+      <title>Taewoon Kim</title>
+      <link>/author/taewoon-kim/</link>
     </image>
     
   </channel>
