@@ -26,8 +26,8 @@
         "url": "https://github.com/StartBootstrap/startbootstrap-clean-blog-jekyll.git"
     },
     "dependencies": {
-        "bootstrap": "4.6.0",
-        "font-awesome": "4.7.0",
+        "bootstrap": "5.3",
+        "font-awesome": "6.5.1",
         "jquery": "3.6.0",
         "startbootstrap-clean-blog": "5.1.0"
     },
