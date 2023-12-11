@@ -1,6 +1,6 @@
 title:              Taewoon Kim
 email:              tae898@gmail.com
-description:        An Artificial Intelligence Researcher & Engineer
+description:        Artificial Intelligence Researcher & Engineer
 author:             Taewoon Kim
 baseurl:            ""
 url:                "https://taewoon.kim"
@@ -12,6 +12,7 @@ github_username:    tae898
 # instagram_username: tae898  
 linkedin_username:  tae898
 google_scholar:     https://scholar.google.com/citations?user=dJ4ksGoAAAAJ&hl=en
+youtube:            tae898
 
 # Add your google-analytics ID here to activate google analytics
 # google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
