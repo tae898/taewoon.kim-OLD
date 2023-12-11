@@ -21,7 +21,7 @@
 title: Taewoon Kim
 email: tae898@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Tae's personal website.
+  Tae's website.
 # domain: taewoon.kim
 baseurl: "" # the subpath of your site, e.g. /blog
 url: https://taewoon.kim # the base hostname & protocol for your site, e.g. http://example.com
